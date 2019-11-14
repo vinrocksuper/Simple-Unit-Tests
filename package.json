@@ -17,12 +17,12 @@
   "author": "Cody Van De Mark",
   "license": "ISC",
   "dependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.1.2"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
   },
   "devDependencies": {
-    "eslint": "^3.8.1",
-    "eslint-config-airbnb": "^12.0.0",
-    "eslint-plugin-import": "^2.0.1"
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2"
   }
 }
