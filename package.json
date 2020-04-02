@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./server/src/app.js",
     "pretest": "eslint ./server --fix",
-    "test": "mocha --timeout 5000 --recursive --reporter nyan server/test"
+    "test": "mocha --timeout 5000 --recursive --exit --reporter spec server/test"
   },
   "keywords": [
     "Mocha",
